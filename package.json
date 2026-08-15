@@ -1,0 +1,16 @@
+{
+  "name": "tdai-memory-mcp",
+  "version": "0.5.18",
+  "description": "RENAMED to remem-mcp. Run: npx remem-mcp setup",
+  "main": "index.js",
+  "bin": {
+    "tdai-memory-mcp": "index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinhien11/remem-mcp"
+  },
+  "homepage": "https://github.com/tinhien11/remem-mcp",
+  "keywords": ["mcp", "memory", "agent-memory", "renamed", "remem-mcp"]
+}
