@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tinhien11/remem-mcp"
+    "url": "https://github.com/tinhien11/tdai-memory-mcp"
   },
   "homepage": "https://github.com/tinhien11/remem-mcp",
   "keywords": ["mcp", "memory", "agent-memory", "renamed", "remem-mcp"]
